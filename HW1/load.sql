@@ -1,0 +1,1 @@
+LOAD FROM "C:/Users/wangf/Downloads/NY_DEA.csv" of del modified by DATEFORMAT="MMDDYYYY"  MESSAGES load.msg INSERT INTO CSE532.DEA_NY;

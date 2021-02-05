@@ -1,0 +1,2 @@
+LOAD FROM "C:/Users/wangf/Downloads/nyzip.csv" of del INSERT INTO CSE532.ZIPPOP 
+DELETE FROM CSE532.ZIPPOP WHERE ZIP='ZIP' 
