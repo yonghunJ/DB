@@ -1,0 +1,1 @@
+doc("customerinfo.xml")/customers/customerinfo/assistant/parent::node()/addr/city[text() = 'Toronto']/parent::node()/parent::node()/name

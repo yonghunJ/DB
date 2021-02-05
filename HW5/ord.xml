@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<order num="00299432" date="2004-09-15" cust ="0221A">
+    <item dept ="WMN" num="573" quantity="1" color="tan" /> 
+    <item dept ="ACC" num="563" quantity="1" color="tan" /> 
+    <item dept ="ACC" num="443" quantity="2" color="tan" /> 
+    <item dept ="MEN" num="784" quantity="1" color="tan" /> 
+    <item dept ="MEN" num="784" quantity="1" color="tan" /> 
+    <item dept ="WMN" num="557" quantity="1" color="tan" />     
+</order>

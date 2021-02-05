@@ -1,0 +1,1 @@
+/bib/book[@year="1992"]/title

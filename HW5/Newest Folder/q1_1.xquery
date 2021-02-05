@@ -1,0 +1,1 @@
+doc("purchaseorders.xml")/PurchaseOrders/PurchaseOrder/item/partid[contains(text(),"100-201-01")]/ancestor::PurchaseOrder[@Status="Shipped"]/@PoNum

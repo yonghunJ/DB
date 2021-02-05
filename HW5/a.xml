@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrders>
+    <purchaseOrder PoNum="5000"
+        Orderdata="2006-02-18" Statue="Unshipped">
+        <item>
+            <partid>100-100-01</partid>
+            <name>wefwe,ewf</name>
+            <quantity>3</quantity>
+            <price>9.99</price>
+        </item>
+    </purchaseOrder>
+</PurchaseOrders>

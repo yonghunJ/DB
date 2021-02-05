@@ -1,0 +1,14 @@
+<dataroot>
+    <Orders>
+        <ShipVia>1</ShipVia>
+        <Freight>32.38</Freight>
+    </Orders>
+    <Orders>
+        <ShipVia>1</ShipVia>
+        <Freight>11.61</Freight>
+    </Orders>
+    <Orders>
+        <ShipVia>2</ShipVia>
+        <Freight>65.83</Freight>
+    </Orders>
+</dataroot>

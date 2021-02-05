@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mo>
+    <parts>
+        <part pno="10506">          
+            <pname>Land Before Time I</pname>
+            <qoh>200</qoh>
+            <price>319.99</price>
+            <level>20</level>
+        </part>
+        <part pno="10000">          
+            <pname>Bottle</pname>
+            <qoh>2</qoh>
+            <price>3.00</price>
+            <level>2</level>
+        </part>
+        <part pno="10508">          
+            <pname>Land Before Time 3</pname>
+            <qoh>202</qoh>
+            <price>2.00</price>
+            <level>22</level>
+        </part>
+        <part pno="10509">          
+            <pname>Cycle</pname>
+            <qoh>202</qoh>
+            <price>1.00</price>
+            <level>22</level>
+        </part>
+    </parts>
+    <orders>    
+        <order ono="1000" >
+            <receivedDate>1967-08-17</receivedDate>
+            <shippedDate>1967-08-13</shippedDate>
+            <items>
+                <item>
+                    <partNumber>10508</partNumber>
+                    <quantity>2</quantity>
+                </item>
+            </items>
+        </order>
+        <order ono="1001" >
+            <receivedDate>1968-08-14</receivedDate>
+            <shippedDate>1968-08-11</shippedDate>
+            <items>
+                <item>
+                    <partNumber>10000</partNumber>
+                    <quantity>2</quantity>
+                </item>
+                
+            </items>
+        </order>
+        
+        <order ono="1022">
+            <receivedDate>1995-02-14</receivedDate>
+            <shippedDate>1995-02-13</shippedDate>
+            <items>
+                <item>
+                    <partNumber>10000</partNumber>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                    <partNumber>10508</partNumber>
+                    <quantity>2</quantity>
+                </item>
+                <item>
+                    <partNumber>10509</partNumber>
+                    <quantity>3</quantity>
+                </item>
+            </items>
+        </order>
+        
+    </orders>
+</mo>
